@@ -3,7 +3,7 @@ Using Tableau for Data Visualization
 
 ## 📊 Project Overview
 
-This project analyzes global energy trends between 2000 and 2021, focusing on the adoption of renewable and non-renewable energy sources and their impact on carbon emissions. The dataset used in this analysis comes from the International Renewable Energy Agency (IRENA) and includes parameters such as electricity generation capacity, energy sources, and public investments in energy infrastructure.
+This project analyzes global energy trends between 2000 and 2022, focusing on the adoption of renewable and non-renewable energy sources and their impact on carbon emissions. The dataset used in this analysis comes from the International Renewable Energy Agency (IRENA) and includes parameters such as electricity generation capacity, energy sources, and public investments in energy infrastructure.
 
 By visualizing this data in Tableau, we aim to uncover key insights about the global shift toward renewable energy and its role in mitigating carbon emissions.
 
@@ -57,7 +57,7 @@ The data underscores the urgent need for accelerated adoption of renewable energ
 
 ## 👤 Author
 
-[https://www.linkedin.com/in/godwin-oti/](Godwin Oti)
+[Godwin Oti](https://www.linkedin.com/in/godwin-oti/)
 
 
 ## 🛠 Future Work
@@ -69,8 +69,8 @@ Analyze the socio-economic impact of renewable energy investments in developing 
 
 ## 🔗 Links
 
-(Tableau Dashboard)[https://public.tableau.com/app/profile/godwin.oti5506/viz/RenewableEnergyAdoption/EnergyGenerationandtheCarbonchallenge]
+[Tableau Dashboard](https://public.tableau.com/app/profile/godwin.oti5506/viz/RenewableEnergyAdoption/EnergyGenerationandtheCarbonchallenge)
 
-Data Source: International Renewable Energy Agency (IRENA)[https://www.irena.org/Statistics]
+Data Source: [International Renewable Energy Agency (IRENA)](https://www.irena.org/Statistics)
 
 
