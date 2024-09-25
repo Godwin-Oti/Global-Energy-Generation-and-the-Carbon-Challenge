@@ -18,15 +18,21 @@ Carbon Emissions Estimation: Estimating carbon emissions based on non-renewable 
 The dataset used is publicly available from the International Renewable Energy Agency (IRENA). Key columns in the dataset include:
 
 Country: The country for which data is being analyzed.
+
 Year: The year of the energy data.
+
 Electricity Installed Capacity (MW or GW): Total capacity for each energy source (renewable and non-renewable).
+
 Electricity Generation (MWh): Total electricity generated from each energy source.
+
 Proxy Carbon Emissions: Estimated emissions based on energy sources and emission factors.
 
 ## ⚙ Analysis Tools
 
 Tableau: The primary tool for visualizing data trends and generating interactive dashboards.
+
 Excel: Used for initial data examination. 
+
 Python: Used for cleaning and and calculation of proxy carbon emissions based on standard emission factors.
 
 
@@ -42,10 +48,13 @@ Key dashboards available in this project:
 
 ## 📌 Key Insights
 
-Non-renewable energy dominance: Mali, India, and Ecuador rely heavily on non-renewables, while Brazil, China, and the USA generate most of their electricity from renewables.
-Hydropower leads, wind and solar rising: Hydropower remains the most significant renewable source, though wind and solar are rapidly increasing their share.
-Carbon emissions linked to non-renewables: Oil and natural gas contribute the most to carbon emissions, with Ivory Coast emitting the highest amount through oil.
-Regional emissions imbalance: Despite generating less electricity, the Americas emit more carbon than both Asia and Africa.
+- Non-renewable energy dominance: Mali, India, and Ecuador rely heavily on non-renewables, while Brazil, China, and the USA generate most of their electricity from renewables.
+
+- Hydropower leads, wind and solar rising: Hydropower remains the most significant renewable source, though wind and solar are rapidly increasing their share.
+
+- Carbon emissions linked to non-renewables: Oil and natural gas contribute the most to carbon emissions, with Ivory Coast emitting the highest amount through oil.
+
+- Regional emissions imbalance: Despite generating less electricity, the Americas emit more carbon than both Asia and Africa.
 
 
 ## 🏁 Conclusion
