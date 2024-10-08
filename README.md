@@ -78,7 +78,7 @@ Analyze the socio-economic impact of renewable energy investments in developing 
 
 ## 🔗 Links
 
-[Tableau Dashboard](https://public.tableau.com/app/profile/godwin.oti5506/viz/RenewableEnergyAdoption/EnergyGenerationandtheCarbonchallenge)
+[Tableau Dashboard](https://public.tableau.com/app/profile/godwin.oti5506/viz/RenewableEnergyAdoption/GlobalEnergyMixRenewableGrowth?publish=yes)
 
 Data Source: [International Renewable Energy Agency (IRENA)](https://www.irena.org/Statistics)
 
